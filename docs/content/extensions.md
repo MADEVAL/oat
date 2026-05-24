@@ -11,6 +11,7 @@ Third-party extensions that work with Oat.
 
 - **[oat-table](https://github.com/MADEVAL/Oat-Table)**: Semantic table enhancement for Oat UI. Sort, filter, and select rows without turning tables into a framework widget. ([Demo](https://demo.globus.studio/oat-table/)).
 
+- **[oat-upload](https://github.com/MADEVAL/Oat-Upload)**: Dropzone, file previews, validation, removal, and progress for native `<input type="file">` in Oat UI. ([Demo](https://demo.globus.studio/oat-upload/)).
 
 -------
 [Open a PR](https://github.com/knadh/oat) to list an extension here.
